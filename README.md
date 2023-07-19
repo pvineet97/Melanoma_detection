@@ -24,7 +24,7 @@
 
 ## Conclusions
 - The final model used the Augmentor library to artificially generate enough samples to come up with a model that can detect a correct cancer type with a validation accuracy around 84%. 
-- The validation loss for the final model was 0.56
+- The validation loss for the final model was 0.61
 
 ## Technologies Used
 - Keras 
